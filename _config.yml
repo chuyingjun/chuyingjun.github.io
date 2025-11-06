@@ -57,10 +57,10 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: Ov23lim475kbT3xHT6ga                            #生成的clientID
   clientSecret: 5ad4e87a407a0f214acb2549afb5ab63b35ccce4    #生成的clientSecret
-  repo: chuyingjun.github.io    #仓库名称
+  repo: cyj_gittalk    #仓库名称
   owner: chuyingjun    #github用户名
   admin: ['chuyingjun']
   # id: 'window.location.pathname'
