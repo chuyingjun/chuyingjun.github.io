@@ -11,19 +11,15 @@ github_repo: "https://github.com/chuyingjun/chuyingjun.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "文艺女青年,热爱技术"
+sidebar-about-description: "大厂女工\n热爱摄影\n热爱生活"
 sidebar-avatar: /img/1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-#zhihu_username:     qiubaiying
 github_username:    chuyingjun
-#facebook_username:  baiying.qiu.7
 jianshu_username:   31384f7f09c6
-#twitter_username:   qiubaiying
 
 
 
