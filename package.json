@@ -3,12 +3,12 @@
     "title": "颖君的自留地",
     "author": "chuyingjun <275353036@qq.com>",
     "version": "1.7.0",
-    "homepage": "http://chuyingjun.github.io",
+    "homepage": "https://chuyingjun.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/sungirl129/chuyingjun.blog.git"
+        "url": "https://github.com/chuyingjun/chuyingjun.github.io.git"
     },
-    "bugs": "hhttps://github.com/sungirl129/chuyingjun.blog./issues",
+    "bugs": "https://github.com/chuyingjun/chuyingjun.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",

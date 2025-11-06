@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 275353036@qq.com
 description: "Nerver Stop. Always on the way."
 keyword: "CYJ, CYJ Blog, 储颖君的博客, 储颖君, chuyingjun, Java, DeepLearning, 日志"
-url: "http://chuyingjun.github.io"          # your host, for absolute URL
+url: "https://chuyingjun.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/sungirl129/chuyingjun.blog.git" # you code repository
+github_repo: "https://github.com/chuyingjun/chuyingjun.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 7cb1d8856e1da28e1dd1                            #生成的clientID
   clientSecret: a6b95c1fa01525727d39fadf84821e4ca705197b    #生成的clientSecret
-  repo: chuyingjun.blog    #仓库名称
+  repo: chuyingjun.github.io    #仓库名称
   owner: chuyingjun    #github用户名
   admin: ['chuyingjun']
   # id: 'window.location.pathname'
