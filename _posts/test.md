@@ -10,8 +10,4 @@ tags:                               #标签
     - 日记
 ---
 
-### 我的野心如火如荼
-
-https://hujzi8qllb.feishu.cn/docx/Jhvdd3aKWop27ixvFW3cMUdpnOH
-
-
+### test 
